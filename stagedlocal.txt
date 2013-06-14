@@ -1,1 +1,2 @@
 line 1: added before stash and before pull from upstream
+line 2: added after stage & commit to local - consider this the commited local file
