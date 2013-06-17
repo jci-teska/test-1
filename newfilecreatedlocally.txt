@@ -4,6 +4,6 @@ jci-teska: created file
 # 6/17/13 2:15pm
 jci-teska: staged locally, committed and pushed to origin # This comment was added locally by jci-teska after doing what is in this step)
 
-This text is to be modified for merge testing later on _____
+This text is to be modified for merge testing later on (# 6/17/13 5:16pm courtenayt: added directly to upstream on gitHub file edit)
 This text _____ is to be modified for merge testing later on 
 This text is not to be modified in a merge later on
