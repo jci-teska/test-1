@@ -1,0 +1,2 @@
+line 1: added before stash and before pull from upstream
+line 2: added before stash and before pull from upstream consider this the stagedlocal file a
