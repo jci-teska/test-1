@@ -1,0 +1,9 @@
+# 6/17/13 1:00pm
+jci-teska: created file
+
+# 6/17/13 2:15pm
+jci-teska: staged locally, committed and pushed to origin # This comment was added locally by jci-teska after doing what is in this step)
+
+This text is to be modified for merge testing later on _____
+This text _____ is to be modified for merge testing later on 
+This text is not to be modified in a merge later on
