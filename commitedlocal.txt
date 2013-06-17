@@ -1,2 +1,3 @@
 line 1: added before stash and before pull from upstream
 line 2: added before stash and before pull from upstream consider this the stagedlocal file a
+line 3: Added after local stage before pull from upstream or commit to local
