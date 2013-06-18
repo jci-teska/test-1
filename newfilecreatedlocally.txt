@@ -4,6 +4,10 @@ jci-teska: created file
 # 6/17/13 2:15pm
 jci-teska: staged locally, committed and pushed to origin # This comment was added locally by jci-teska after doing what is in this step)
 
-This text is to be modified for merge testing later on (# 6/17/13 5:16pm courtenayt: added directly to upstream on gitHub file edit)
+This text is to be modified for merge testing later on (# 6/18/13 jci-teska: fixed merge by adding this comment and moving other 2 comments to next line, removing the merge arrows)
+(# 6/17/13 5:16pm courtenayt: added directly to upstream on gitHub file edit) (# 6/17/13 4:46pm jci-teska added this text to replace underscore placeholder for merge test.)
 This text _____ is to be modified for merge testing later on 
 This text is not to be modified in a merge later on
+
+# 6/17/13 4:46pm jci-teska random new line
+
