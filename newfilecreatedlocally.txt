@@ -9,5 +9,5 @@ This text is to be modified for merge testing later on (# 6/18/13 jci-teska: fix
 This text _____ is to be modified for merge testing later on 
 This text is not to be modified in a merge later on
 
-# 6/17/13 4:46pm jci-teska random new line
+# 6/17/13 4:46pm jci-teska random (# 6/18/13 jci-teska: another merge conflict from jci-local to upstream) new line
 
