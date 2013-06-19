@@ -3,3 +3,5 @@ line 2: added after stage & commit to local - consider this the commited local f
 
 # 6/17/13 4:09pm
 jci-teska: added this line
+
+# 6/18/13 3:02pm jci-teska: addline and then stage file locally
